@@ -1,0 +1,27 @@
+.idea
+.vscode
+.data
+.DS_Store
+npm-debug.log
+node_modules
+target
+dist
+yarn-error.log
+apps.iml
+coverage
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
